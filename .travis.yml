@@ -17,7 +17,7 @@ env:
     - PG_CONNECTION_STRING=postgres://postgres:postgres@localhost:5432/travis_ci_test
     - TIMEOUT=15000
 install:
-  - npm install
+  - travis_retry npm install
 before_script:
   - psql -c 'create database travis_ci_test;' -U postgres
 test:
