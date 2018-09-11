@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/pg-diff-sync/compare/v1.1.0...v1.2.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.2.1 to 3.2.3 ([e9ba2fa](https://github.com/wmfs/pg-diff-sync/commit/e9ba2fa))
+
 # [1.1.0](https://github.com/wmfs/pg-diff-sync/compare/v1.0.0...v1.1.0) (2018-09-11)
 
 
