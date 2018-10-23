@@ -1,3 +1,16 @@
+# [1.7.0](https://github.com/wmfs/pg-diff-sync/compare/v1.6.0...v1.7.0) (2018-10-23)
+
+
+### 🛠 Builds
+
+* **deps:** update dottie requirement from 2.0.0 to 2.0.1 ([1b8df02](https://github.com/wmfs/pg-diff-sync/commit/1b8df02))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([16728d9](https://github.com/wmfs/pg-diff-sync/commit/16728d9))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([564cbda](https://github.com/wmfs/pg-diff-sync/commit/564cbda))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([16fe657](https://github.com/wmfs/pg-diff-sync/commit/16fe657))
+* **deps-dev:** update semantic-release requirement ([028b060](https://github.com/wmfs/pg-diff-sync/commit/028b060))
+* **deps-dev:** update semantic-release requirement ([836904f](https://github.com/wmfs/pg-diff-sync/commit/836904f))
+* **deps-dev:** update semantic-release requirement ([65c7b21](https://github.com/wmfs/pg-diff-sync/commit/65c7b21))
+
 # [1.6.0](https://github.com/wmfs/pg-diff-sync/compare/v1.5.0...v1.6.0) (2018-10-08)
 
 
