@@ -20,7 +20,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "boom": "7.2.0",
+    "boom": "7.2.1",
     "debug": "4.1.0",
     "dottie": "2.0.1",
     "ejs": "2.6.1",
