@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/wmfs/pg-diff-sync/compare/v1.8.0...v1.9.0) (2018-11-03)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.1 to 7.2.2 ([2242597](https://github.com/wmfs/pg-diff-sync/commit/2242597))
+* **deps-dev:** update semantic-release requirement ([cdf7f92](https://github.com/wmfs/pg-diff-sync/commit/cdf7f92))
+
 # [1.8.0](https://github.com/wmfs/pg-diff-sync/compare/v1.7.0...v1.8.0) (2018-11-01)
 
 
