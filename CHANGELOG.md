@@ -1,3 +1,19 @@
+# [1.10.0](https://github.com/wmfs/pg-diff-sync/compare/v1.9.0...v1.10.0) (2018-12-10)
+
+
+### ✨ Features
+
+* Add ability to alter columns ([6836d86](https://github.com/wmfs/pg-diff-sync/commit/6836d86))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update semantic-release requirement ([9948c8a](https://github.com/wmfs/pg-diff-sync/commit/9948c8a))
+* **deps-dev:** update semantic-release requirement ([c80528c](https://github.com/wmfs/pg-diff-sync/commit/c80528c))
+* **deps-dev:** update semantic-release requirement ([5ce2423](https://github.com/wmfs/pg-diff-sync/commit/5ce2423))
+* **deps-dev:** update semantic-release requirement ([29f9d67](https://github.com/wmfs/pg-diff-sync/commit/29f9d67))
+* **deps-dev:** update semantic-release requirement ([c7e3dc2](https://github.com/wmfs/pg-diff-sync/commit/c7e3dc2))
+
 # [1.9.0](https://github.com/wmfs/pg-diff-sync/compare/v1.8.0...v1.9.0) (2018-11-03)
 
 
