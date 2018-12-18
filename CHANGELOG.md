@@ -1,3 +1,15 @@
+# [1.11.0](https://github.com/wmfs/pg-diff-sync/compare/v1.10.0...v1.11.0) (2018-12-18)
+
+
+### ✨ Features
+
+* Add ability to alter columns. Add options to include  create and alter statements in output. ([39a1fe5](https://github.com/wmfs/pg-diff-sync/commit/39a1fe5))
+
+
+### 💎 Styles
+
+* Whitespace changes ([2428819](https://github.com/wmfs/pg-diff-sync/commit/2428819))
+
 # [1.10.0](https://github.com/wmfs/pg-diff-sync/compare/v1.9.0...v1.10.0) (2018-12-10)
 
 
