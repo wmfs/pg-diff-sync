@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/wmfs/pg-diff-sync/compare/v1.11.0...v1.11.1) (2018-12-18)
+
+
+### 🐛 Bug Fixes
+
+* Tweak column alter check to remove false positives ([0f712b8](https://github.com/wmfs/pg-diff-sync/commit/0f712b8))
+
 # [1.11.0](https://github.com/wmfs/pg-diff-sync/compare/v1.10.0...v1.11.0) (2018-12-18)
 
 
