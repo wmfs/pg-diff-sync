@@ -5,6 +5,9 @@ node_js:
   - lts/*
 sudo: false
 dist: trusty
+branches:
+  only:
+  - master
 install:
   - travis_retry npm install
 test:
