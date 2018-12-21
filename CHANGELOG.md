@@ -1,3 +1,19 @@
+# [1.12.0](https://github.com/wmfs/pg-diff-sync/compare/v1.11.1...v1.12.0) (2018-12-21)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.2 to 7.3.0 ([5c92a91](https://github.com/wmfs/pg-diff-sync/commit/5c92a91))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([204c58d](https://github.com/wmfs/pg-diff-sync/commit/204c58d))
+* **deps-dev:** update semantic-release requirement ([d9a931a](https://github.com/wmfs/pg-diff-sync/commit/d9a931a))
+
+
+### ⚙️ Continuous Integrations
+
+* **travis:** remove postgres config ([7ce76cd](https://github.com/wmfs/pg-diff-sync/commit/7ce76cd))
+* **travis:** run only on master ([be16c4a](https://github.com/wmfs/pg-diff-sync/commit/be16c4a))
+* **travis:** use node lts ([1c36675](https://github.com/wmfs/pg-diff-sync/commit/1c36675))
+
 ## [1.11.1](https://github.com/wmfs/pg-diff-sync/compare/v1.11.0...v1.11.1) (2018-12-18)
 
 
