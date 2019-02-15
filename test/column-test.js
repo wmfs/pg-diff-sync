@@ -2,6 +2,7 @@
 
 const executionWithJson = require('./fixtures/execution-with-json.json')
 const executionWithString = require('./fixtures/execution-with-string.json')
+const executionWithStringArray = require('./fixtures/execution-with-string-array.json')
 const executionWithAdditionalColumn = require('./fixtures/execution-with-additional-column.json')
 
 const pgDiffSync = require('./../lib')
@@ -26,7 +27,7 @@ describe('columns', () => {
     )
   })
 
-  it('change column types', () => {
+  it('change column types - json to string', () => {
     const statements = pgDiffSync(executionWithJson, executionWithString)
     expect(statements).to.eql(
       [
@@ -34,6 +35,24 @@ describe('columns', () => {
         'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN ctx DROP NOT NULL;',
         'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text;',
         'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions DROP NOT NULL;'
+      ]
+    )
+  })
+
+  it('change column types - string to string array', () => {
+    const statements = pgDiffSync(executionWithString, executionWithStringArray)
+    expect(statements).to.eql(
+      [
+        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text[] USING executionOptions::text[];',
+      ]
+    )
+  })
+
+  it('change column types - string array to string', () => {
+    const statements = pgDiffSync(executionWithStringArray, executionWithString)
+    expect(statements).to.eql(
+      [
+        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text;',
       ]
     )
   })
