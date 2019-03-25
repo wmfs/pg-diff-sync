@@ -43,7 +43,7 @@ describe('columns', () => {
     const statements = pgDiffSync(executionWithString, executionWithStringArray)
     expect(statements).to.eql(
       [
-        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text[] USING executionOptions::text[];',
+        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text[] USING executionOptions::text[];'
       ]
     )
   })
@@ -52,7 +52,7 @@ describe('columns', () => {
     const statements = pgDiffSync(executionWithStringArray, executionWithString)
     expect(statements).to.eql(
       [
-        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text;',
+        'ALTER TABLE pg_diff_sync_test.execution ALTER COLUMN executionOptions TYPE text;'
       ]
     )
   })
