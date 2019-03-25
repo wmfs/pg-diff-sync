@@ -1,3 +1,20 @@
+## [1.13.1](https://github.com/wmfs/pg-diff-sync/compare/v1.13.0...v1.13.1) (2019-03-25)
+
+
+### 🐛 Bug Fixes
+
+* **column-type:** Altering a column to an array type adds USING conversion ([6b05990](https://github.com/wmfs/pg-diff-sync/commit/6b05990))
+
+
+### 📦 Code Refactoring
+
+* standard ([a1a6fb9](https://github.com/wmfs/pg-diff-sync/commit/a1a6fb9))
+
+
+### ⚙️ Continuous Integrations
+
+* remove azure-pipelines ([3ee8fa3](https://github.com/wmfs/pg-diff-sync/commit/3ee8fa3))
+
 # [1.13.0](https://github.com/wmfs/pg-diff-sync/compare/v1.12.0...v1.13.0) (2019-02-08)
 
 
