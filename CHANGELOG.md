@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/wmfs/pg-diff-sync/compare/v1.13.1...v1.13.2) (2019-04-03)
+
+
+### 🐛 Bug Fixes
+
+* Add USING cast to Alter column to integer ([b02f28f](https://github.com/wmfs/pg-diff-sync/commit/b02f28f))
+
 ## [1.13.1](https://github.com/wmfs/pg-diff-sync/compare/v1.13.0...v1.13.1) (2019-03-25)
 
 
