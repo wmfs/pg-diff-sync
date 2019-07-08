@@ -1,7 +1,7 @@
 # pg-diff-sync
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/pg-diff-sync.svg)](https://www.npmjs.com/package/@wmfs/pg-diff-sync)
-[![Build Status](https://travis-ci.org/wmfs/pg-diff-sync.svg?branch=master)](https://travis-ci.org/wmfs/pg-diff-sync)
+[[![CircleCI](https://circleci.com/gh/wmfs/pg-diff-sync.svg?style=svg)](https://circleci.com/gh/wmfs/pg-diff-sync)
 [![codecov](https://codecov.io/gh/wmfs/pg-diff-sync/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/pg-diff-sync)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/pg-diff-sync/badge)](https://www.codefactor.io/repository/github/wmfs/pg-diff-sync)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
