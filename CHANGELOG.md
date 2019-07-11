@@ -1,3 +1,26 @@
+# [1.14.0](https://github.com/wmfs/pg-diff-sync/compare/v1.13.2...v1.14.0) (2019-07-11)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([dbf9f26](https://github.com/wmfs/pg-diff-sync/commit/dbf9f26))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([e12307e](https://github.com/wmfs/pg-diff-sync/commit/e12307e))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([802b5c4](https://github.com/wmfs/pg-diff-sync/commit/802b5c4))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([150dea0](https://github.com/wmfs/pg-diff-sync/commit/150dea0))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([f0e286f](https://github.com/wmfs/pg-diff-sync/commit/f0e286f))
+* **deps-dev:** update semantic-release requirement ([ea95a9c](https://github.com/wmfs/pg-diff-sync/commit/ea95a9c))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([c83dff4](https://github.com/wmfs/pg-diff-sync/commit/c83dff4))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([d75ea36](https://github.com/wmfs/pg-diff-sync/commit/d75ea36))
+* **travis:** Remove Travis config ([7d56d9e](https://github.com/wmfs/pg-diff-sync/commit/7d56d9e))
+
 ## [1.13.2](https://github.com/wmfs/pg-diff-sync/compare/v1.13.1...v1.13.2) (2019-04-03)
 
 
