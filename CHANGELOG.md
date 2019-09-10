@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/wmfs/pg-diff-sync/compare/v1.14.0...v1.15.0) (2019-09-10)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([5a76669](https://github.com/wmfs/pg-diff-sync/commit/5a76669))
+
 # [1.14.0](https://github.com/wmfs/pg-diff-sync/compare/v1.13.2...v1.14.0) (2019-07-11)
 
 
