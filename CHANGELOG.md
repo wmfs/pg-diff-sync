@@ -1,3 +1,17 @@
+# [1.16.0](https://github.com/wmfs/pg-diff-sync/compare/v1.15.0...v1.16.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([da31e96](https://github.com/wmfs/pg-diff-sync/commit/da31e9656d62ffb7545e179af66276d3b3c40300))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([97aca8b](https://github.com/wmfs/pg-diff-sync/commit/97aca8b91f4bf19a3529a7440b52a66cce14c224))
+* **deps-dev:** bump packages ([308dd9b](https://github.com/wmfs/pg-diff-sync/commit/308dd9b1cc8607cfce192d5756b0aa98ae3caaac))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([8f4175b](https://github.com/wmfs/pg-diff-sync/commit/8f4175b31c51d6ed18c86c0ca041e63558e3d9a2))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([3661913](https://github.com/wmfs/pg-diff-sync/commit/3661913666f30286c18514eb8c2625c2f3fb57e2))
+* **deps-dev:** update cz-conventional-changelog requirement ([58d1e94](https://github.com/wmfs/pg-diff-sync/commit/58d1e94abf80c15935de900da5bbe337594eecc0))
+* **deps-dev:** update mocha requirement from 6.1.4 to 6.2.0 ([6c3e405](https://github.com/wmfs/pg-diff-sync/commit/6c3e405a099ae7a22bc3ab900bd2aed73ebec5ef))
+* **deps-dev:** update semantic-release requirement ([926d3f0](https://github.com/wmfs/pg-diff-sync/commit/926d3f0c870f592e8316f59435ccbcb921f05b8a))
+
 # [1.15.0](https://github.com/wmfs/pg-diff-sync/compare/v1.14.0...v1.15.0) (2019-09-10)
 
 
