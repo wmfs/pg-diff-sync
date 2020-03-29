@@ -23,7 +23,7 @@
     "boom": "7.3.0",
     "debug": "4.1.1",
     "dottie": "2.0.2",
-    "ejs": "3.0.1",
+    "ejs": "3.0.2",
     "lodash": "4.17.15"
   },
   "devDependencies": {
