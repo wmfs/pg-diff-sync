@@ -1,3 +1,37 @@
+# [1.18.0](https://github.com/wmfs/pg-diff-sync/compare/v1.17.0...v1.18.0) (2020-04-02)
+
+
+### 🛠 Builds
+
+* **deps:** bump ejs from 3.0.1 to 3.0.2 ([71a9a56](https://github.com/wmfs/pg-diff-sync/commit/71a9a56890b44990d5af2eeb247c76db2da6c38b))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([c8663a3](https://github.com/wmfs/pg-diff-sync/commit/c8663a3cbf84e9ef49748b5ff1d66db5f39ebc25))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([4fb0877](https://github.com/wmfs/pg-diff-sync/commit/4fb08773b9f5375076b45698980ada3ac269ba4e))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([b262275](https://github.com/wmfs/pg-diff-sync/commit/b26227545b31b9202eca9ccedcf13c61febae313))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([136033a](https://github.com/wmfs/pg-diff-sync/commit/136033afa4b405ca2012c9cec988c74c86e79854))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([1efc2b1](https://github.com/wmfs/pg-diff-sync/commit/1efc2b1eb694a64d10ec79f538be454073f493d1))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([5df3dc8](https://github.com/wmfs/pg-diff-sync/commit/5df3dc8f0393caf1c01c0ee73b8f77ffc2c9d3db))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([d36f1be](https://github.com/wmfs/pg-diff-sync/commit/d36f1be9b221bcd83ea22150d3192365631fb831))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([dce8032](https://github.com/wmfs/pg-diff-sync/commit/dce8032e0dbea370670ec2f5393fa574075a1236))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([d59f8c1](https://github.com/wmfs/pg-diff-sync/commit/d59f8c108be36a6d6e9250ca6e629bbd6518d9c3))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([f566068](https://github.com/wmfs/pg-diff-sync/commit/f566068766685c3d39fd6edb402226a42f2bd31b))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([46239d6](https://github.com/wmfs/pg-diff-sync/commit/46239d676e1ae3014b0240b2887a7a3a8d5abf2d))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([02dcc0a](https://github.com/wmfs/pg-diff-sync/commit/02dcc0a4cee61acd0d0a0d27ebb227dd9aad83c3))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([60ca82c](https://github.com/wmfs/pg-diff-sync/commit/60ca82c945dee215f4bcfade1f1f7638d5c03ef0))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.4 ([7e25f7a](https://github.com/wmfs/pg-diff-sync/commit/7e25f7abd31794e76f19089bde627b8591cb2fad))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([0748105](https://github.com/wmfs/pg-diff-sync/commit/07481054870fe195ff70270e3b41b4b47f69dcd0))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([ab89335](https://github.com/wmfs/pg-diff-sync/commit/ab893354c467641c789db6d85fe5a08b1f35dac5))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([c36c49e](https://github.com/wmfs/pg-diff-sync/commit/c36c49e681c88a8727370090a7cdbdbd5b75531c))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([aefa504](https://github.com/wmfs/pg-diff-sync/commit/aefa504cb4502aea65eefa0e231dad614351c2ca))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([1404b18](https://github.com/wmfs/pg-diff-sync/commit/1404b1835c733821f08798e3df669208b9cacaf8))
+
 # [1.17.0](https://github.com/wmfs/pg-diff-sync/compare/v1.16.0...v1.17.0) (2020-01-08)
 
 
