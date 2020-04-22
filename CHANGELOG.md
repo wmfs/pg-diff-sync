@@ -1,3 +1,14 @@
+# [1.19.0](https://github.com/wmfs/pg-diff-sync/compare/v1.18.0...v1.19.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Remove unused boom & debug dependencies ([3b8eb5d](https://github.com/wmfs/pg-diff-sync/commit/3b8eb5d9b254b6ff706ac3070661389ae297ea22))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([1c01f69](https://github.com/wmfs/pg-diff-sync/commit/1c01f696a7e672bb08d5febbb88702de0b15bed8))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([08b13ef](https://github.com/wmfs/pg-diff-sync/commit/08b13efde6f64e1502598537c3b9a9493271dd59))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([e6d1972](https://github.com/wmfs/pg-diff-sync/commit/e6d19724b1061be874e491086874ebf0f0513c24))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([1e69538](https://github.com/wmfs/pg-diff-sync/commit/1e69538c54451c6bbe8444aad8837e39746a7c5f))
+
 # [1.18.0](https://github.com/wmfs/pg-diff-sync/compare/v1.17.0...v1.18.0) (2020-04-02)
 
 
