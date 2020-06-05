@@ -1,3 +1,33 @@
+## [1.19.1](https://github.com/wmfs/pg-diff-sync/compare/v1.19.0...v1.19.1) (2020-06-05)
+
+
+### 🐛 Bug Fixes
+
+* don't try creating index if it already exists ([cd5c6da](https://github.com/wmfs/pg-diff-sync/commit/cd5c6daef02e9320509ba7a27011be43daa0202b))
+* remove \n ([984bad8](https://github.com/wmfs/pg-diff-sync/commit/984bad884c223eb512444aa5159d8f3d6d490b2b))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([7e9fd00](https://github.com/wmfs/pg-diff-sync/commit/7e9fd0009e35875375219a7b5d5d90de907d545e))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([e0df20b](https://github.com/wmfs/pg-diff-sync/commit/e0df20b9be489b984f77de4295472e59d641fd4a))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([d6380b6](https://github.com/wmfs/pg-diff-sync/commit/d6380b67af19b2797821b37e756646c8a4963eda))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([1e26c5b](https://github.com/wmfs/pg-diff-sync/commit/1e26c5be1ea45d7d5d7d3b18ef66e42ebb002b85))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([3ba81ce](https://github.com/wmfs/pg-diff-sync/commit/3ba81ce49fe466e694a410245ddef979cfccbe2b))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([ccaf372](https://github.com/wmfs/pg-diff-sync/commit/ccaf372a87263ec111c1d9fd49250d1325d58935))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([1ea7761](https://github.com/wmfs/pg-diff-sync/commit/1ea776181e1f08d5ed8823d08d1942f320d1e892))
+
+
+### 🚨 Tests
+
+* add line endings to fix tests on circle? ([e897fd5](https://github.com/wmfs/pg-diff-sync/commit/e897fd5b999b5d278c2d0f2e8b035ae5b9569ad3))
+* is this the right line separator? ([a88147d](https://github.com/wmfs/pg-diff-sync/commit/a88147dd2258c7fde5a616aac55e81ab5422676a))
+* is this the right line separator? ([42dcad7](https://github.com/wmfs/pg-diff-sync/commit/42dcad730da512ddfd4f8b24522abe52e474adf1))
+* re-add ejs file with line endings ([672c08d](https://github.com/wmfs/pg-diff-sync/commit/672c08db0f0013c2b41afc3c8f4c288569a79baa))
+* revert line endings + remove ejs file (temp) ([9fb47df](https://github.com/wmfs/pg-diff-sync/commit/9fb47dfe25cf97aacb513d777fb47e9c7197f119))
+* trim whitespace for test expects ([add0371](https://github.com/wmfs/pg-diff-sync/commit/add037140ecce81116bcddffbde1db54b5aa4ae3))
+* update tests with index 'IF NOT EXISTS' ([909d55c](https://github.com/wmfs/pg-diff-sync/commit/909d55cef201522073640a0703a5820a5bb82493))
+
 # [1.19.0](https://github.com/wmfs/pg-diff-sync/compare/v1.18.0...v1.19.0) (2020-04-22)
 
 
