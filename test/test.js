@@ -13,7 +13,7 @@ const expect = require('chai').expect
 describe('diff-sync', () => {
   describe('tables', () => {
     it('build everything for a simple table in a blank database', () => {
-      const statements = pgDiffSync(empty, people)
+      const statements = pgDiffSync(empty, people).map(s => s.trim())
       expect(statements).to.eql(
         [
           'CREATE SCHEMA pg_diff_sync_test;',
@@ -58,7 +58,7 @@ describe('diff-sync', () => {
     })
 
     it('build nested tables', () => {
-      const statements = pgDiffSync(empty, planets)
+      const statements = pgDiffSync(empty, planets).map(s => s.trim())
       expect(statements).to.eql(
         [
           'CREATE SCHEMA pg_diff_sync_test;',
