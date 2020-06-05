@@ -35,7 +35,7 @@ describe('diff-sync', () => {
           "COMMENT ON COLUMN pg_diff_sync_test.people._modified IS 'Timestamp for when this record was last updated';",
           "COMMENT ON COLUMN pg_diff_sync_test.people._modified_by IS 'UserID that last modified this record (if known)';",
           'ALTER TABLE pg_diff_sync_test.people ADD PRIMARY KEY (employee_no);',
-          'CREATE UNIQUE INDEX IF NOT EXISTS people_first_name_last_name_idx ON pg_diff_sync_test.people USING btree (first_name,last_name);'
+          'CREATE UNIQUE INDEX IF NOT EXISTS people_first_name_last_name_idx ON pg_diff_sync_test.people USING btree (first_name,last_name);\r\n'
         ]
       )
     })
@@ -146,9 +146,9 @@ describe('diff-sync', () => {
           'ALTER TABLE pg_diff_sync_test.craters ADD PRIMARY KEY (id);',
           'ALTER TABLE pg_diff_sync_test.planets ADD PRIMARY KEY (name);',
           'ALTER TABLE pg_diff_sync_test.moons ADD PRIMARY KEY (id);',
-          'CREATE INDEX IF NOT EXISTS person_first_name_last_name_idx ON pg_diff_sync_test.person USING btree (first_name,last_name);',
-          'CREATE INDEX IF NOT EXISTS craters_moons_id_idx ON pg_diff_sync_test.craters USING btree (moons_id);',
-          'CREATE INDEX IF NOT EXISTS moons_planets_name_idx ON pg_diff_sync_test.moons USING btree (planets_name);',
+          'CREATE INDEX IF NOT EXISTS person_first_name_last_name_idx ON pg_diff_sync_test.person USING btree (first_name,last_name);\r\n',
+          'CREATE INDEX IF NOT EXISTS craters_moons_id_idx ON pg_diff_sync_test.craters USING btree (moons_id);\r\n',
+          'CREATE INDEX IF NOT EXISTS moons_planets_name_idx ON pg_diff_sync_test.moons USING btree (planets_name);\r\n',
           'ALTER TABLE pg_diff_sync_test.craters ADD CONSTRAINT craters_to_moons_fk FOREIGN KEY (moons_id) REFERENCES pg_diff_sync_test.moons (id) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE CASCADE;',
           'ALTER TABLE pg_diff_sync_test.moons ADD CONSTRAINT moons_to_planets_fk FOREIGN KEY (planets_name) REFERENCES pg_diff_sync_test.planets (name) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE CASCADE;'
         ]
