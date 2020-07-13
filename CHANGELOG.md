@@ -1,3 +1,18 @@
+# [1.20.0](https://github.com/wmfs/pg-diff-sync/compare/v1.19.1...v1.20.0) (2020-07-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([b38479c](https://github.com/wmfs/pg-diff-sync/commit/b38479c4811e9b2370ca7b0c5e0e57b611de5dab))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([a85b59b](https://github.com/wmfs/pg-diff-sync/commit/a85b59bd5a2907df47507414489234d701d209dc))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([f3ffecb](https://github.com/wmfs/pg-diff-sync/commit/f3ffecb3d30ac950bf50c8878a0a5d5c76056443))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([b0ffcdb](https://github.com/wmfs/pg-diff-sync/commit/b0ffcdb089ee96623ca4c4561c45efdc56da5b07))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([19b100a](https://github.com/wmfs/pg-diff-sync/commit/19b100a6513bcf9a882164266dd931a9df134aac))
+
 ## [1.19.1](https://github.com/wmfs/pg-diff-sync/compare/v1.19.0...v1.19.1) (2020-06-05)
 
 
