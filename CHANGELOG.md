@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/wmfs/pg-diff-sync/compare/v1.20.0...v1.21.0) (2020-07-16)
+
+
+### 🛠 Builds
+
+* **deps:** bump ejs from 3.0.2 to 3.1.3 ([79ff9c4](https://github.com/wmfs/pg-diff-sync/commit/79ff9c416d18e3d9a58e7efcc0760cbf18c4db54))
+
 # [1.20.0](https://github.com/wmfs/pg-diff-sync/compare/v1.19.1...v1.20.0) (2020-07-13)
 
 
