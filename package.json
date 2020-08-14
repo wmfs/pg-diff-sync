@@ -22,7 +22,7 @@
   "dependencies": {
     "dottie": "2.0.2",
     "ejs": "3.1.3",
-    "lodash": "4.17.19"
+    "lodash": "4.17.20"
   },
   "devDependencies": {
     "chai": "4.2.0",
