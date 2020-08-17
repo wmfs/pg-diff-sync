@@ -1,3 +1,19 @@
+# [1.22.0](https://github.com/wmfs/pg-diff-sync/compare/v1.21.0...v1.22.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([ebf9589](https://github.com/wmfs/pg-diff-sync/commit/ebf9589e62498f7fc4764a08e5a8359a584a3eed))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([cf393c7](https://github.com/wmfs/pg-diff-sync/commit/cf393c75a4a0972ebdfa1c590c27dd0982d90821))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([432bea4](https://github.com/wmfs/pg-diff-sync/commit/432bea4909e6554722f92c632d3d4396c375c180))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([882fe49](https://github.com/wmfs/pg-diff-sync/commit/882fe4995b04d3b91626586182d7a3aea4ce0af6))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([beb1487](https://github.com/wmfs/pg-diff-sync/commit/beb14877710a57ada50994d13912fcf4ab7d99b9))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([f1e08a3](https://github.com/wmfs/pg-diff-sync/commit/f1e08a313f56f142f07171e0042b9d23bad4b7f1))
+
 # [1.21.0](https://github.com/wmfs/pg-diff-sync/compare/v1.20.0...v1.21.0) (2020-07-16)
 
 
