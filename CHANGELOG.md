@@ -1,3 +1,48 @@
+# [1.24.0](https://github.com/wmfs/pg-diff-sync/compare/v1.23.0...v1.24.0) (2021-02-09)
+
+
+### 🛠 Builds
+
+* **deps:** bump ejs from 3.1.5 to 3.1.6 ([eeb8e98](https://github.com/wmfs/pg-diff-sync/commit/eeb8e98491eda2aa76de449fd9458e6f44dffa43))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([d30467b](https://github.com/wmfs/pg-diff-sync/commit/d30467b8c86ca6a783af84f46836cc148c1b8767))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([c81a802](https://github.com/wmfs/pg-diff-sync/commit/c81a802790881fb337ebe91b5eb1e9b06e10e549))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([b0d03f7](https://github.com/wmfs/pg-diff-sync/commit/b0d03f76cecf858643639573dc51684347a334f2))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([77ad0b7](https://github.com/wmfs/pg-diff-sync/commit/77ad0b7b244b32ddb35149c905a7964edef8a039))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([199b9ac](https://github.com/wmfs/pg-diff-sync/commit/199b9acc9c3b98121ee2b43952aa9d9c903b762e))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([831b88c](https://github.com/wmfs/pg-diff-sync/commit/831b88c79cfef8019aa29a126d55df8a124a3f6f))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([5c02a9e](https://github.com/wmfs/pg-diff-sync/commit/5c02a9ef77fd233980095e563978c977bf455598))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([38ae292](https://github.com/wmfs/pg-diff-sync/commit/38ae292db90d2938ff8af436bc60c0ff7fe62eff))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([fde6d9f](https://github.com/wmfs/pg-diff-sync/commit/fde6d9f3c630310725ed7096abb112b88a13b3fc))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([f3ff058](https://github.com/wmfs/pg-diff-sync/commit/f3ff058a5491fd5d3dd217a5d9712cab70d3166f))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([3c09e2f](https://github.com/wmfs/pg-diff-sync/commit/3c09e2f3be6b9d4e9c9e9aa53c1d8d728e0be5c6))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([c33f804](https://github.com/wmfs/pg-diff-sync/commit/c33f8042c168d8c6b306e249dd9ee805713a57e6))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([098db4a](https://github.com/wmfs/pg-diff-sync/commit/098db4afba6553affac27c921b087e58e16b5f00))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([8adf8ec](https://github.com/wmfs/pg-diff-sync/commit/8adf8ec00c487165c0af618fb146e1edd63070c4))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([21bf62f](https://github.com/wmfs/pg-diff-sync/commit/21bf62f37a4a05c34c42898fd26e8695c55bc57d))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([8b11506](https://github.com/wmfs/pg-diff-sync/commit/8b1150699d5dbbde74a09533b1ecc3b8a6296bb9))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([e0f06ff](https://github.com/wmfs/pg-diff-sync/commit/e0f06ff0d6c2d5cda3bc4c3c8c5514cede07a004))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([7b410ee](https://github.com/wmfs/pg-diff-sync/commit/7b410eea3a2155434a78ec05b1cfaa9cd142a615))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([8d2d6df](https://github.com/wmfs/pg-diff-sync/commit/8d2d6dfa3c863f33049573cfeb13d4e09a779774))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([dbf8252](https://github.com/wmfs/pg-diff-sync/commit/dbf8252160ae06e3072c439cde031a974fe25623))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([f1b41c7](https://github.com/wmfs/pg-diff-sync/commit/f1b41c7edf9cd98bfbb2f800e1486f250bc49a41))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([5ae4b4a](https://github.com/wmfs/pg-diff-sync/commit/5ae4b4a0689e7ed517a5715cb377d639f5e06d90))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([a51eef2](https://github.com/wmfs/pg-diff-sync/commit/a51eef25eb7bf202a4d1fab59bc93d81aad491f3))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([883dbd3](https://github.com/wmfs/pg-diff-sync/commit/883dbd3a6720dcee1da8e4d5ec0bec072108b4e0))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([83b3402](https://github.com/wmfs/pg-diff-sync/commit/83b34026f3cf28c39eaf493a6777248696be78b8))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([e159928](https://github.com/wmfs/pg-diff-sync/commit/e159928365a7b48007c670a5ee0bf3a217ab2685))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([7ebfa1d](https://github.com/wmfs/pg-diff-sync/commit/7ebfa1db0a039f758aa6c93c4798caf098249248))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([bd16624](https://github.com/wmfs/pg-diff-sync/commit/bd166242bc98517dae8f18c5144a46d31ed35132))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([df3c080](https://github.com/wmfs/pg-diff-sync/commit/df3c0803913dad636c2a65aed44f24bd97157b37))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([176038c](https://github.com/wmfs/pg-diff-sync/commit/176038c16f3bbab3acd9eb6809f5840fb9661122))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([a9c040d](https://github.com/wmfs/pg-diff-sync/commit/a9c040d4b8b0c52f01ca816193bc4ffb63246481))
+* **circle:** cache dependencies [ch2770] ([71782d7](https://github.com/wmfs/pg-diff-sync/commit/71782d7a6db95c04d249f4a026757c25c38f874f))
+* **circle:** separate linting job [ch1009] ([0d34f88](https://github.com/wmfs/pg-diff-sync/commit/0d34f88c503761486080da18ec85c8a4785b79e8))
+* **circle:** update build environment variable context name [ch2771] ([75f7182](https://github.com/wmfs/pg-diff-sync/commit/75f718236fe414572863de84360531a2fed848ba))
+
 # [1.23.0](https://github.com/wmfs/pg-diff-sync/compare/v1.22.0...v1.23.0) (2020-08-24)
 
 
