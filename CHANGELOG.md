@@ -1,3 +1,12 @@
+# [1.25.0](https://github.com/wmfs/pg-diff-sync/compare/v1.24.0...v1.25.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([ad73fe0](https://github.com/wmfs/pg-diff-sync/commit/ad73fe0f9796893bbaa3602b25e78e3cd156ddbb))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([4da2e03](https://github.com/wmfs/pg-diff-sync/commit/4da2e0323823956e7d088a354ae8dc7434679e27))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([5876954](https://github.com/wmfs/pg-diff-sync/commit/587695450c0e16731febd2e0611eb77e470b3ce9))
+
 # [1.24.0](https://github.com/wmfs/pg-diff-sync/compare/v1.23.0...v1.24.0) (2021-02-09)
 
 
