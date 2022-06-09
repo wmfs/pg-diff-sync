@@ -1,3 +1,52 @@
+# [1.26.0](https://github.com/wmfs/pg-diff-sync/compare/v1.25.0...v1.26.0) (2022-06-09)
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([86d14a9](https://github.com/wmfs/pg-diff-sync/commit/86d14a90792de3974e329684a2cfca50ff4a09f0))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([5c762b5](https://github.com/wmfs/pg-diff-sync/commit/5c762b5e02b59be81ceb1954270825dee78b3506))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([8524632](https://github.com/wmfs/pg-diff-sync/commit/85246329020cc0d80a942709d70c9d9ac6f0fb51))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([71ae607](https://github.com/wmfs/pg-diff-sync/commit/71ae6078ab6fdcae9c6eef37bda74fea251f46d3))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([8902480](https://github.com/wmfs/pg-diff-sync/commit/89024802fdfc1d6b2f1eb54d86a26390ab2dfd9d))
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([9daee92](https://github.com/wmfs/pg-diff-sync/commit/9daee92e45711f394392acfdb9701dc9abe27924))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([4879e1a](https://github.com/wmfs/pg-diff-sync/commit/4879e1aad620c9299515a3437b50cda13d7d732c))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([6737410](https://github.com/wmfs/pg-diff-sync/commit/6737410eed3a96b49dae53fec994d9144e01a63f))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([ba1935f](https://github.com/wmfs/pg-diff-sync/commit/ba1935f54f4602fa07b50926cc0872a91bad5998))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([2f764fc](https://github.com/wmfs/pg-diff-sync/commit/2f764fcad355358ae4274e4c085453894bafe806))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([37f4289](https://github.com/wmfs/pg-diff-sync/commit/37f4289e558e26f9efd40fe2ac482e87a27770ac))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([0ed2fee](https://github.com/wmfs/pg-diff-sync/commit/0ed2fee2c20c29f4dd68e642e8149b841a4522cf))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([c8766e2](https://github.com/wmfs/pg-diff-sync/commit/c8766e2830e2c9f369104e110355e38b6e86ce77))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([098e6e9](https://github.com/wmfs/pg-diff-sync/commit/098e6e9e3d41d877e491bf2d2f4e273ea344c9de))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([f74ec27](https://github.com/wmfs/pg-diff-sync/commit/f74ec27825d80312c261bd68f52a75da0295d945))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([abe0cae](https://github.com/wmfs/pg-diff-sync/commit/abe0cae68ed1dce2a9cb1eb261f3d1ffb6d024ed))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([30399d2](https://github.com/wmfs/pg-diff-sync/commit/30399d2a4ea632c3b390865a8c0bf1d1f0e53136))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([2952d9c](https://github.com/wmfs/pg-diff-sync/commit/2952d9c9d763cc6529b97531be2ec19e1ee15fb1))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([18596c1](https://github.com/wmfs/pg-diff-sync/commit/18596c176dc0c76fad4673a4b9b4bd16d7e59e40))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([bbc92c5](https://github.com/wmfs/pg-diff-sync/commit/bbc92c5e43314f38fb608ae5f08f56333a6dfa67))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([4eb2c3d](https://github.com/wmfs/pg-diff-sync/commit/4eb2c3d373b28cbe28aacf839fc75e844520dc7e))
+* **deps-dev:** update dependency chai to v4.3.6 ([737733b](https://github.com/wmfs/pg-diff-sync/commit/737733b6845cc6a282120ec526c5158ef74abfeb))
+* **deps-dev:** update dependency mocha to v10 ([5b07e87](https://github.com/wmfs/pg-diff-sync/commit/5b07e875dae9a1a1997f88160c9fd61fc35b39dc))
+* **deps-dev:** update dependency mocha to v9.1.0 ([f9b2ff4](https://github.com/wmfs/pg-diff-sync/commit/f9b2ff4d84c522c4fe8cfc52cfc8b8502734ed78))
+* **deps-dev:** update dependency mocha to v9.1.1 ([e9af8be](https://github.com/wmfs/pg-diff-sync/commit/e9af8be80f98516dbe2e48792fad92b7449211cf))
+* **deps-dev:** update dependency mocha to v9.1.2 ([aec1f29](https://github.com/wmfs/pg-diff-sync/commit/aec1f29fb8227f789ab63828bfe2a98ee88fcd55))
+* **deps-dev:** update dependency mocha to v9.1.3 ([b8b7941](https://github.com/wmfs/pg-diff-sync/commit/b8b7941f11d347eb1e0d43d7b64c6781d5da9321))
+* **deps-dev:** update dependency mocha to v9.2.2 ([1e76d2f](https://github.com/wmfs/pg-diff-sync/commit/1e76d2ff29a677e0c9d75946ed998052e3a03f7d))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([4115b7f](https://github.com/wmfs/pg-diff-sync/commit/4115b7f73d66fe816e07ef37430cccd997afe4b1))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([3847275](https://github.com/wmfs/pg-diff-sync/commit/38472758bf383c5159683aa41a188ac950333c5c))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([aeebab0](https://github.com/wmfs/pg-diff-sync/commit/aeebab03633ef6ff068af41f053cae02a43e7fcf))
+* **deps-dev:** update dependency semantic-release to v18 ([a5e471e](https://github.com/wmfs/pg-diff-sync/commit/a5e471e0b7607e258b208ba815dbf818a32c63f4))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([5cc9f70](https://github.com/wmfs/pg-diff-sync/commit/5cc9f701039e011e273374b1f126450ea92e0aea))
+* **deps-dev:** update dependency semantic-release to v19 ([3f6319a](https://github.com/wmfs/pg-diff-sync/commit/3f6319a96a6a977c7b56e3d8082ef310ae344185))
+* **deps-dev:** update dependency standard to v16.0.4 ([c72c0c6](https://github.com/wmfs/pg-diff-sync/commit/c72c0c6d8d9348c2c1702df455b5af78f3fb7567))
+* **deps-dev:** update dependency standard to v17 ([2c834ec](https://github.com/wmfs/pg-diff-sync/commit/2c834ece5ac1721796f349b450d36ac732543ce2))
+* **deps-dev:** update semantic-release monorepo ([cc01777](https://github.com/wmfs/pg-diff-sync/commit/cc0177760f450734264e8cf06d0c1c5d02778399))
+* **deps:** update dependency ejs to v3.1.7 [security] ([0289d5f](https://github.com/wmfs/pg-diff-sync/commit/0289d5f5501a52c76a5e17cdaec2c5b04662cede))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([fd40bf6](https://github.com/wmfs/pg-diff-sync/commit/fd40bf6c5aa661d5d6714ef6091f39fbb680f9b2))
+
 # [1.25.0](https://github.com/wmfs/pg-diff-sync/compare/v1.24.0...v1.25.0) (2021-02-24)
 
 
