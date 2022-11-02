@@ -1,3 +1,13 @@
+# [1.27.0](https://github.com/wmfs/pg-diff-sync/compare/v1.26.0...v1.27.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10.1.0 ([c88abc6](https://github.com/wmfs/pg-diff-sync/commit/c88abc64d435b76fc104b838d5709efdc18789bc))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([4138b9c](https://github.com/wmfs/pg-diff-sync/commit/4138b9c2d0aed6df99cab9c3ceaaa9d72489cf87))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([e03c8c0](https://github.com/wmfs/pg-diff-sync/commit/e03c8c052f535f8f7ea8b4d3a70c32ea03d6400b))
+* **deps:** update dependency ejs to v3.1.8 ([7d19732](https://github.com/wmfs/pg-diff-sync/commit/7d1973283c5970b0b1ec1909ab80fc1fd2497388))
+
 # [1.26.0](https://github.com/wmfs/pg-diff-sync/compare/v1.25.0...v1.26.0) (2022-06-09)
 
 
