@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/wmfs/pg-diff-sync/compare/v1.28.0...v1.29.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency ejs to v3.1.9 ([ece9045](https://github.com/wmfs/pg-diff-sync/commit/ece9045353e930097a245376e9a74c02f2f0e812))
+
 # [1.28.0](https://github.com/wmfs/pg-diff-sync/compare/v1.27.0...v1.28.0) (2023-03-13)
 
 
