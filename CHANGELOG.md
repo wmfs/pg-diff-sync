@@ -1,3 +1,14 @@
+# [1.28.0](https://github.com/wmfs/pg-diff-sync/compare/v1.27.0...v1.28.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([ca15402](https://github.com/wmfs/pg-diff-sync/commit/ca15402e31f9a0d30b9ae8065fb7480f1f857385))
+* **deps-dev:** update dependency chai to v4.3.7 ([08d984b](https://github.com/wmfs/pg-diff-sync/commit/08d984b170d215609714429545b47c709755040d))
+* **deps-dev:** update dependency mocha to v10.2.0 ([d0624b8](https://github.com/wmfs/pg-diff-sync/commit/d0624b83faa4ff7f12ca818f677b9b827add3fd2))
+* **deps-dev:** update dependency semantic-release to v20 ([dc13180](https://github.com/wmfs/pg-diff-sync/commit/dc131809161528270265adabe063de0b98ef46c0))
+* **deps:** update dependency dottie to v2.0.3 ([3c09005](https://github.com/wmfs/pg-diff-sync/commit/3c090054817973e54f4bd1d5f6a3dd301229087e))
+
 # [1.27.0](https://github.com/wmfs/pg-diff-sync/compare/v1.26.0...v1.27.0) (2022-11-02)
 
 
