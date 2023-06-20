@@ -1,3 +1,10 @@
+# [1.31.0](https://github.com/wmfs/pg-diff-sync/compare/v1.30.0...v1.31.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([ec98e39](https://github.com/wmfs/pg-diff-sync/commit/ec98e3981815dd81a3dc11110daa960e25219402))
+
 # [1.30.0](https://github.com/wmfs/pg-diff-sync/compare/v1.29.0...v1.30.0) (2023-06-20)
 
 
