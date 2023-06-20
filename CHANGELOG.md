@@ -1,3 +1,18 @@
+# [1.30.0](https://github.com/wmfs/pg-diff-sync/compare/v1.29.0...v1.30.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([924299a](https://github.com/wmfs/pg-diff-sync/commit/924299aa7cf4952f6ab439085fea58fa32da5fca))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([700537f](https://github.com/wmfs/pg-diff-sync/commit/700537f7e4d51724c4dfa6d8a7f2c5a592a470df))
+* **deps-dev:** update dependency semantic-release to v21 ([e760e36](https://github.com/wmfs/pg-diff-sync/commit/e760e3625c5e931e776b65972adc8fee047f2646))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([e8ae2a0](https://github.com/wmfs/pg-diff-sync/commit/e8ae2a06618f20e4ce12b2ea6c5f2dad571885df))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([6be0632](https://github.com/wmfs/pg-diff-sync/commit/6be06328f212c52d6f2c18280e699803c1de2386))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([d97f85c](https://github.com/wmfs/pg-diff-sync/commit/d97f85c876942523cad33d2fa42812366ddc270f))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([80ef653](https://github.com/wmfs/pg-diff-sync/commit/80ef6530e2d641a71638a51851f2ac85e5f39615))
+* **deps-dev:** update dependency standard to v17.1.0 ([365198a](https://github.com/wmfs/pg-diff-sync/commit/365198a2a90ee37ac5e22663965a58b052251c07))
+* **deps:** update dependency dottie to v2.0.4 [security] ([995897e](https://github.com/wmfs/pg-diff-sync/commit/995897e7d0e4c258e688ace4fa679703985f71c8))
+
 # [1.29.0](https://github.com/wmfs/pg-diff-sync/compare/v1.28.0...v1.29.0) (2023-03-13)
 
 
