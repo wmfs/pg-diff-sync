@@ -1,3 +1,5 @@
+# [1.32.0](https://github.com/wmfs/pg-diff-sync/compare/v1.31.0...v1.32.0) (2024-11-04)
+
 # [1.31.0](https://github.com/wmfs/pg-diff-sync/compare/v1.30.0...v1.31.0) (2023-06-20)
 
 
