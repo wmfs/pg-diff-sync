@@ -1,3 +1,22 @@
+## [1.34.0](https://github.com/wmfs/pg-diff-sync/compare/v1.33.1...v1.34.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([b5530bf](https://github.com/wmfs/pg-diff-sync/commit/b5530bf9eebed6a3983d4feeebe1790c73fea478))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#398](https://github.com/wmfs/pg-diff-sync/issues/398)) ([9d0145e](https://github.com/wmfs/pg-diff-sync/commit/9d0145ee4b6166e8f0fcf937ec9eda6f39ab9984))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#404](https://github.com/wmfs/pg-diff-sync/issues/404)) ([6f9ead1](https://github.com/wmfs/pg-diff-sync/commit/6f9ead1af0b9dc971ee7576a6e91902f503598ff))
+* **deps-dev:** update dependency mocha to v12 ([#399](https://github.com/wmfs/pg-diff-sync/issues/399)) ([36991c1](https://github.com/wmfs/pg-diff-sync/commit/36991c1488424d1e749473f287a6ce1dd998b91c))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#400](https://github.com/wmfs/pg-diff-sync/issues/400)) ([dfacdc4](https://github.com/wmfs/pg-diff-sync/commit/dfacdc425826645ddd95843179c740ba59177242))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#401](https://github.com/wmfs/pg-diff-sync/issues/401)) ([8fd887b](https://github.com/wmfs/pg-diff-sync/commit/8fd887b4eebb554d0c77f4d4f268e075f55fdf85))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#402](https://github.com/wmfs/pg-diff-sync/issues/402)) ([5b83d8c](https://github.com/wmfs/pg-diff-sync/commit/5b83d8cfd637c9378ab23ebe2fd6be68019a6ae4))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#374](https://github.com/wmfs/pg-diff-sync/issues/374)) ([862394c](https://github.com/wmfs/pg-diff-sync/commit/862394c2fb9e8c715cb06dfe595b5e1e0a5e63d3))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#370](https://github.com/wmfs/pg-diff-sync/issues/370)) ([b9f7263](https://github.com/wmfs/pg-diff-sync/commit/b9f72632bf761616c98126cc39fed83cea0ac51a))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#408](https://github.com/wmfs/pg-diff-sync/issues/408)) ([01f08ee](https://github.com/wmfs/pg-diff-sync/commit/01f08eebb61815ced4698a39819072f0755bfef4))
+* use shared renovate preset [sc-34117] ([#407](https://github.com/wmfs/pg-diff-sync/issues/407)) ([71aa177](https://github.com/wmfs/pg-diff-sync/commit/71aa1778b067a1bd20e0237589d9737dfd1d61e8))
+
 ## [1.33.1](https://github.com/wmfs/pg-diff-sync/compare/v1.33.0...v1.33.1) (2026-08-13)
 
 ## [1.33.0](https://github.com/wmfs/pg-diff-sync/compare/v1.32.0...v1.33.0) (2025-10-21)
