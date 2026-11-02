@@ -1,3 +1,9 @@
+## [1.35.0](https://github.com/wmfs/pg-diff-sync/compare/v1.34.0...v1.35.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency ejs to v7 ([#403](https://github.com/wmfs/pg-diff-sync/issues/403)) ([ce1a632](https://github.com/wmfs/pg-diff-sync/commit/ce1a632f832257c5c43f2b6a8ee9b5a90def2e4b))
+
 ## [1.34.0](https://github.com/wmfs/pg-diff-sync/compare/v1.33.1...v1.34.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
